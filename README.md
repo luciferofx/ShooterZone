@@ -8,7 +8,12 @@ Welcome to **Shooter Zone**, an action-packed first-person shooter game built fo
 
 Watch this short tutorial on how to install the game:
 
-[▶️ Watch Installation Video](https://drive.google.com/file/d/1VqK8O9B6g0ahI2qlbg0Q0he_eFwb8NzO/view)
+https://github.com/user-attachments/assets/bfcbcc84-329c-40d2-89b4-8bc80fe8c43c
+
+
+
+
+
 
 ---
 
