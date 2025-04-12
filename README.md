@@ -8,7 +8,11 @@ Welcome to **Shooter Zone**, an action-packed first-person shooter game built fo
 
 Watch this short video to see how to install the game:
 
-[▶️ Watch howtouse.mp4](howtouse.mp4)
+<video width="100%" controls>
+  <source src="howtouse.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 ---
