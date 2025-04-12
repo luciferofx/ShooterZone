@@ -4,27 +4,14 @@
 
 Welcome to **Shooter Zone**, an action-packed first-person shooter game built for thrill-seekers and gamers who love intense gunplay, immersive environments, and fast-paced combat. Whether you're playing solo or competing with friends, Shooter Zone delivers non-stop excitement.
 ---
+### 📽️ How to Install Shooter Zone
 
-## 🙏 Support the Project
+Watch this short video to see how to install the game:
 
-Love LuciChain? Help me keep it alive & growing! Your support means everything. ❤️
-
-> 🟢 **UPI**: `gamobhai2@ybl`  
-> 🧾 **Binance UID**: `783008968`
-
-### 💰 Crypto Donations
-
-| Coin | Address |
-|------|---------|
-| **USDT (TRC-20)** | `TXKPBgR9d5xq5KpAyd2maPVQuEEDZ9DgiQ` |
-| **BTC** | `1JeBUw4bjL9tuKrHwKKk4dx3mPy1jxys8j` |
-| **LTC** | `LPUR2CE5SfArfYRJWkdtqhGz3t17Rijz2d` |
-
+[▶️ Watch howtouse.mp4](howtouse.mp4)
 ---
 
-
 ---
-
 
 ## 🎮 Features
 
@@ -58,4 +45,21 @@ To get a local copy up and running, follow these simple steps.
 ```
 just install the shooter.exe (setupFile)
 ```
+---
+
+## 🙏 Support the Project
+
+Love LuciChain? Help me keep it alive & growing! Your support means everything. ❤️
+
+> 🟢 **UPI**: `gamobhai2@ybl`  
+> 🧾 **Binance UID**: `783008968`
+
+### 💰 Crypto Donations
+
+| Coin | Address |
+|------|---------|
+| **USDT (TRC-20)** | `TXKPBgR9d5xq5KpAyd2maPVQuEEDZ9DgiQ` |
+| **BTC** | `1JeBUw4bjL9tuKrHwKKk4dx3mPy1jxys8j` |
+| **LTC** | `LPUR2CE5SfArfYRJWkdtqhGz3t17Rijz2d` |
+
 ---
